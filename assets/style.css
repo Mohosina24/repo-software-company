@@ -1289,12 +1289,13 @@ div[data-bg] {
       stroke: var(--clr-white);
       transition: all .5s ease; }
   .btn-ve-thm:hover {
-    background: var(--clr-heading);
+    /*background: var(--clr-heading);*/
     color: var(--clr-white); }
     .btn-ve-thm:hover i svg {
       fill: var(--clr-white);
       stroke: var(--clr-white);
       transform: rotate(45deg); }
+
 
 .btn-ve-thm-2 {
   padding: 12px 22px;
